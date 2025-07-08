@@ -27,8 +27,8 @@
 | <a href="https://github.com/miniron-v"><img src="https://avatars.githubusercontent.com/u/61517039?v=4" width="100px;" alt=""/> | 김민철 | Game, Unity, C# | [https://autumncat.tistory.com](https://autumncat.tistory.com/)  |
 | <a href="https://github.com/LJEDD2"><img src="https://avatars.githubusercontent.com/u/78216102?v=4" width="100px;" alt=""/> | 이정은 | Data Analystics, ML  | [https://blog.naver.com/charzim0611](https://blog.naver.com/charzim0611/)  |
 | <a href="https://github.com/dohyeondol1"><img src="https://avatars.githubusercontent.com/u/102894803?v=4" width="100px;" alt=""/> | 도현석 | Data Structure, Algorithm | [https://dohyeondol1.github.io](https://dohyeondol1.github.io/)  |
-| <a href="https://github.com/kangrae-jo"><img src="https://avatars.githubusercontent.com/u/177727543?v=4" width="100px;" alt=""/> | 조강래 | Baekend, Java | [https://kng0501.tistory.com](https://kng0501.tistory.com/)  |
-| <a href="https://github.com/g0rnn"><img src="https://avatars.githubusercontent.com/u/124599614?v=4" width="100px;" alt=""/> | 김균호 | Baekend, Java | [https://g0rnn.tistory.com](https://g0rnn.tistory.com/)  |
+| <a href="https://github.com/kangrae-jo"><img src="https://avatars.githubusercontent.com/u/177727543?v=4" width="100px;" alt=""/> | 조강래 | Backend, Java | [https://kng0501.tistory.com](https://kng0501.tistory.com/)  |
+| <a href="https://github.com/g0rnn"><img src="https://avatars.githubusercontent.com/u/124599614?v=4" width="100px;" alt=""/> | 김균호 | Backend, Java | [https://g0rnn.tistory.com](https://g0rnn.tistory.com/)  |
 
 ---
 

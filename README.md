@@ -30,7 +30,8 @@
 | <a href="https://github.com/kangrae-jo"><img src="https://avatars.githubusercontent.com/u/177727543?v=4" width="100px;" alt=""/> | 조강래 | Backend, Java | [https://kng0501.tistory.com](https://kng0501.tistory.com/)  |
 | <a href="https://github.com/g0rnn"><img src="https://avatars.githubusercontent.com/u/124599614?v=4" width="100px;" alt=""/> | 김균호 | Backend, Java | [https://g0rnn.tistory.com](https://g0rnn.tistory.com/)  |
 | <a href="https://github.com/erase-jeong"><img src="https://avatars.githubusercontent.com/u/98355440?v=4" width="100px;" alt=""/> | 정지우 | . | [https://erase-jeong.tistory.com](https://erase-jeong.tistory.com/)  |
-| <a href="https://github.com/MinseoKim01"><img src="https://avatars.githubusercontent.com/u/202237930?v=4" width="100px;" alt=""/> | 김민서 | AI, Python | [https://velog.io/@minseoo_1/posts](https://velog.io/@minseoo_1/posts/)  |
+| <a href="https://github.com/MinseoKim01"><img src="https://avatars.githubusercontent.com/u/202237930?v=4" width="100px;" alt=""/> | 김민서 | AI, Python | [https://velog.io/@minseoo_1](https://velog.io/@minseoo_1/posts/)  |
+| <a href="https://github.com/skadjs"><img src="https://avatars.githubusercontent.com/u/143885031?v=4" width="100px;" alt=""/> | 김남언 | Backend, Java | [https://velog.io/@skadjs](https://velog.io/@skadjs/)  |
 
 ---
 

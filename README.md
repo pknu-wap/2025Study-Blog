@@ -29,18 +29,20 @@
 | <a href="https://github.com/dohyeondol1"><img src="https://avatars.githubusercontent.com/u/102894803?v=4" width="100px;" alt=""/> | 도현석 | Data Structure, Algorithm | [https://dohyeondol1.github.io](https://dohyeondol1.github.io/)  |
 | <a href="https://github.com/kangrae-jo"><img src="https://avatars.githubusercontent.com/u/177727543?v=4" width="100px;" alt=""/> | 조강래 | Backend, Java | [https://kng0501.tistory.com](https://kng0501.tistory.com/)  |
 | <a href="https://github.com/g0rnn"><img src="https://avatars.githubusercontent.com/u/124599614?v=4" width="100px;" alt=""/> | 김균호 | Backend, Java | [https://g0rnn.tistory.com](https://g0rnn.tistory.com/)  |
+| <a href="https://github.com/erase-jeong"><img src="https://avatars.githubusercontent.com/u/98355440?v=4" width="100px;" alt=""/> | 정지우 | . | [https://erase-jeong.tistory.com](https://erase-jeong.tistory.com/)  |
+| <a href="https://github.com/MinseoKim01"><img src="https://avatars.githubusercontent.com/u/202237930?v=4" width="100px;" alt=""/> | 김민서 | AI, Python | [https://velog.io/@minseoo_1/posts](https://velog.io/@minseoo_1/posts/)  |
 
 ---
 
 ## 🗓️ 주간 포스팅 기록(오프라인)
-| 주차 (기간)          | 구교황           | 김민철         | 도현석          | 조강래             | 김균호         | 김남언          | 
-|---------------------|-----------------|---------------|----------------|-------------------|---------------|----------------|
-| 1주차 (07/25~07/31) | ...              | ...           | ...           | ...                | ...           | ...            |
+| 주차 (기간)         | 구교황              | 김민철              | 도현석              | 조강래              | 김균호              | 김남언              | 
+|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+| 1주차 (07/09~07/15) | ...                | ...                | ...                | ...                | ...                | ...                |
 
 ## 🗓️ 주간 포스팅 기록(온라인)
-| 주차 (기간)          | 이정은           | 정지우         | 김민서          | 서주영             | 
-|---------------------|-----------------|---------------|----------------|-------------------|
-| 1주차 (07/25~07/31) | ...              | ...           | ...           | ...                |
+| 주차 (기간)          | 이정은              | 김민서              | 정지우              | 서주영             | 
+|---------------------|--------------------|--------------------|--------------------|--------------------|
+| 1주차 (07/25~07/31) | ...                 | ...                | ...                | ...                |
 
 ---
 

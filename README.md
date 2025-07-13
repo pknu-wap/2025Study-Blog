@@ -46,7 +46,7 @@
 | 주차          | 이정은              | 김민서              | 정지우              |
 |--------------|--------------------|--------------------|--------------------|
 | 1주차 (07/13) | OT | OT | OT |
-| 2주차 (07/13) | [A/B Test에서 그룹 간 차이를 통계적으로 검증하는 방법 (T-Test)](https://salryujutme.tistory.com/70) | - | [C언어 포인터 개념 정리](https://erase-jeong.tistory.com/190) |
+| 2주차 (07/20) | [A/B Test에서 그룹 간 차이를 통계적으로 검증하는 방법 (T-Test)](https://salryujutme.tistory.com/70) | - | [C언어 포인터 개념 정리](https://erase-jeong.tistory.com/190) |
 
 ---
 

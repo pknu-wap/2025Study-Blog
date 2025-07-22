@@ -33,15 +33,14 @@
 | <a href="https://github.com/g0rnn"><img src="https://avatars.githubusercontent.com/u/124599614?v=4" width="100px;" alt=""/> | 김균호 | Backend, Java, Spring | [https://g0rnn.tistory.com](https://g0rnn.tistory.com/)  |
 | <a href="https://github.com/erase-jeong"><img src="https://avatars.githubusercontent.com/u/98355440?v=4" width="100px;" alt=""/> | 정지우 | Backend, Java, Spring | [https://erase-jeong.tistory.com](https://erase-jeong.tistory.com/)  |
 | <a href="https://github.com/MinseoKim01"><img src="https://avatars.githubusercontent.com/u/202237930?v=4" width="100px;" alt=""/> | 김민서 | AI, Python | [https://velog.io/@minseoo_1](https://velog.io/@minseoo_1/posts/)  |
-| <a href="https://github.com/skadjs"><img src="https://avatars.githubusercontent.com/u/143885031?v=4" width="100px;" alt=""/> | 김남언 | Backend, Java, Spring | [https://velog.io/@skadjs](https://velog.io/@skadjs/)  |
 
 ---
 
 ## 🗓️ 주간 포스팅 기록(오프라인)
-| 주차           | 구교황              | 김민철              | 도현석              | 조강래              | 김균호              | 김남언              | 
-|---------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-| 1주차 (07/15) | OT                | OT                | OT                | 예비군 훈련으로 불참 | 예비군 훈련으로 불참 | 정보처리기사 실기 대비로 불참 |
-| 2주차 (07/22) | - | [“프로그래밍 언어도 언어다.” - 코드 가독성을 높이려면](https://autumncat.tistory.com/82) | - | - | - | 정보처리기사 실기 대비로 불참 |
+| 주차           | 구교황              | 김민철              | 도현석              | 조강래              | 김균호              | 
+|---------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+| 1주차 (07/15) | OT                | OT                | OT                | 예비군 훈련으로 불참 | 예비군 훈련으로 불참 |
+| 2주차 (07/22) | [소켓 프로그래밍 기초](https://9ky0.tistory.com/11) | [“프로그래밍 언어도 언어다.” - 코드 가독성을 높이려면](https://autumncat.tistory.com/82) | [A* 알고리즘의 이해](https://byte348.com/A-star-algorithm/) | [싱글톤 패턴](https://kng0501.tistory.com/11) | [FCM(Firebase Cloud Messaging)을 알고 계신가요](https://g0rnn.tistory.com/1) |
 
 ## 🗓️ 주간 포스팅 기록(온라인)
 | 주차          | 이정은              | 김민서              | 정지우              |

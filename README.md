@@ -45,8 +45,9 @@
 ## 🗓️ 주간 포스팅 기록(온라인)
 | 주차          | 이정은              | 김민서              | 정지우              |
 |--------------|--------------------|--------------------|--------------------|
-| 1주차 (07/13) | OT / [A/B Test에서 그룹 간 차이를 통계적으로 검증하는 방법 (T-Test)](https://salryujutme.tistory.com/70) | OT | OT |
+| 1주차 (07/13) | OT | OT | OT |
 | 2주차 (07/20) | [[통계] 분류 모델 성능 평가 지표, F1-Score 제대로 알고 활용하기](https://salryujutme.tistory.com/71) | [밑바닥부터 시작하는 딥러닝1 - ch01 헬로 파이썬](https://velog.io/@minseoo_1/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D1-ch01-%ED%97%AC%EB%A1%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC) | [C언어 포인터 개념 정리](https://erase-jeong.tistory.com/190) |
+| 3주차 (07/27) | [A/B Test에서 그룹 간 차이를 통계적으로 검증하는 방법 (T-Test)](https://salryujutme.tistory.com/70) | [밑바닥부터 시작하는 딥러닝1 - ch02 퍼셉트론](https://velog.io/@minseoo_1/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D1-ch02-%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0) | [데이터와 데이터베이스, DBMS](https://erase-jeong.tistory.com/131) |
 
 ---
 

@@ -44,6 +44,7 @@
 | 3주차 (07/29) | [TCP 서버](https://9ky0.tistory.com/12) | [Serialize Field vs SerializeReference vs Serializable](https://autumncat.tistory.com/84) | [baekjoon 7869. 두 원](https://byte348.com/boj-7869/) | [Spring Layer Architecture](https://kng0501.tistory.com/12) | [Java - Stream이 뭔지 모른다면](https://g0rnn.tistory.com/2) |
 | 4주차 (08/05) | [C++ - 메모리 관리 1: 스마트 포인터](https://9ky0.tistory.com/13) | [Unity - 직렬화를 이해해보자](https://autumncat.tistory.com/85) | 개인 사정으로 불참 | [배포가 귀찮아?](https://kng0501.tistory.com/14) | 개인 사정으로 불참 |
 | 5주차 (08/12) | [C++ - 메모리 관리 2: 메모리 할당(Allocator)](https://9ky0.tistory.com/14) | [Unity - CustomEditor/CustomPropertyDrawer - 인스펙터를 개조해보자](https://autumncat.tistory.com/86) | [baekjoon 16192. Voronoi Diagram Returns](https://byte348.com/boj-16192/) | [이 Exception 좀 Java줘~](https://kng0501.tistory.com/15) | [서버 과부하 문제 해결을 위한 모니터링 구축](https://vaulted-stretch-615.notion.site/22aafec25a5080c4ba77f9f7f71a3814) |
+| 6주차 (08/19) | []() | 예비군 훈련으로 불참 | []() | []() | [진짜 문제 나갑니다!! Index... 과연 무엇일까요?](https://g0rnn.tistory.com/3) |
 
 ## 🗓️ 주간 포스팅 기록(온라인)
 | 주차          | 이정은              | 김민서              | 정지우              |
@@ -53,6 +54,7 @@
 | 3주차 (07/27) | [A/B Test에서 그룹 간 차이를 통계적으로 검증하는 방법 (T-Test)](https://salryujutme.tistory.com/70) | [밑바닥부터 시작하는 딥러닝1 - ch02 퍼셉트론](https://velog.io/@minseoo_1/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D1-ch02-%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0) | [데이터와 데이터베이스, DBMS](https://erase-jeong.tistory.com/131) |
 | 4주차 (08/03) | [통계 - 이진 분류기의 성능을 표현하는 법: ROC Curve](https://salryujutme.tistory.com/72) | 개인 사정으로 불참 | [로드 밸런싱(Load Balancing)에 대하여 알아보기](https://erase-jeong.tistory.com/194) |
 | 5주차 (08/10) | [통계 CUPED : T-Test 변동성 줄이기](https://salryujutme.tistory.com/73) | [밑바닥부터 시작하는 딥러닝1 - ch03 신경망 (63-77p)](https://velog.io/@minseoo_1/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D1-ch03-%EC%8B%A0%EA%B2%BD%EB%A7%9D-63-77p) | [클라우드, 대체 뭔데 다 쓰는 걸까?(feat. AWS)](https://erase-jeong.tistory.com/195) |
+| 6주차 (08/17) | 회사일로 불참 | []() | [인공지능부터 머신러닝, 딥러닝까지, 핵심 개념 한 번에 이해하기](https://erase-jeong.notion.site/what-is-ai) |
 
 ---
 

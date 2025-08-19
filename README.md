@@ -54,7 +54,7 @@
 | 3주차 (07/27) | [A/B Test에서 그룹 간 차이를 통계적으로 검증하는 방법 (T-Test)](https://salryujutme.tistory.com/70) | [밑바닥부터 시작하는 딥러닝1 - ch02 퍼셉트론](https://velog.io/@minseoo_1/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D1-ch02-%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0) | [데이터와 데이터베이스, DBMS](https://erase-jeong.tistory.com/131) |
 | 4주차 (08/03) | [통계 - 이진 분류기의 성능을 표현하는 법: ROC Curve](https://salryujutme.tistory.com/72) | 개인 사정으로 불참 | [로드 밸런싱(Load Balancing)에 대하여 알아보기](https://erase-jeong.tistory.com/194) |
 | 5주차 (08/10) | [통계 CUPED : T-Test 변동성 줄이기](https://salryujutme.tistory.com/73) | [밑바닥부터 시작하는 딥러닝1 - ch03 신경망 (63-77p)](https://velog.io/@minseoo_1/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D1-ch03-%EC%8B%A0%EA%B2%BD%EB%A7%9D-63-77p) | [클라우드, 대체 뭔데 다 쓰는 걸까?(feat. AWS)](https://erase-jeong.tistory.com/195) |
-| 6주차 (08/17) | 회사일로 불참 | []() | [인공지능부터 머신러닝, 딥러닝까지, 핵심 개념 한 번에 이해하기](https://erase-jeong.notion.site/what-is-ai) |
+| 6주차 (08/17) | 회사일로 불참 | [밑바닥부터 시작하는 딥러닝1 - ch03 신경망 (63-77p) 다시보기](https://velog.io/@minseoo_1/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D1-ch03-%EC%8B%A0%EA%B2%BD%EB%A7%9D-63-77p-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0) | [인공지능부터 머신러닝, 딥러닝까지, 핵심 개념 한 번에 이해하기](https://erase-jeong.notion.site/what-is-ai) |
 
 ---
 

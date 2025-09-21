@@ -21,16 +21,21 @@
 
 ---
 
-## 👥 스터디원
+## 👥 現 스터디원
 
 | 프로필                                                                                                                           | 이름   | 관심 분야               | 블로그                                                  |
 |---------------------------------------------------------------------------------------------------------------------------------|-------|------------------------|--------------------------------------------------------|
 | <a href="https://github.com/9kyo-hwang"><img src="https://avatars.githubusercontent.com/u/49135176?v=4" width="100px;" alt=""/> | 구교황 | Game Client/Server, Unreal Engine, Unity, C++ | [https://9ky0.tistory.com](https://9ky0.tistory.com/)  |
 | <a href="https://github.com/miniron-v"><img src="https://avatars.githubusercontent.com/u/61517039?v=4" width="100px;" alt=""/> | 김민철 | Game, Unity, C# | [https://autumncat.tistory.com](https://autumncat.tistory.com/)  |
-| <a href="https://github.com/LJEDD2"><img src="https://avatars.githubusercontent.com/u/78216102?v=4" width="100px;" alt=""/> | 이정은 | Data Analystics, ML  | [https://blog.naver.com/charzim0611](https://blog.naver.com/charzim0611/)  |
-| <a href="https://github.com/dohyeondol1"><img src="https://avatars.githubusercontent.com/u/102894803?v=4" width="100px;" alt=""/> | 도현석 | Data Structure, Algorithm | [https://dohyeondol1.github.io](https://dohyeondol1.github.io/)  |
 | <a href="https://github.com/kangrae-jo"><img src="https://avatars.githubusercontent.com/u/177727543?v=4" width="100px;" alt=""/> | 조강래 | Backend, Java, Spring | [https://kng0501.tistory.com](https://kng0501.tistory.com/)  |
 | <a href="https://github.com/g0rnn"><img src="https://avatars.githubusercontent.com/u/124599614?v=4" width="100px;" alt=""/> | 김균호 | Backend, Java, Spring | [https://g0rnn.tistory.com](https://g0rnn.tistory.com/)  |
+
+## 👥 前 스터디원
+
+| 프로필                                                                                                                           | 이름   | 관심 분야               | 블로그                                                  |
+|---------------------------------------------------------------------------------------------------------------------------------|-------|------------------------|--------------------------------------------------------|
+| <a href="https://github.com/LJEDD2"><img src="https://avatars.githubusercontent.com/u/78216102?v=4" width="100px;" alt=""/> | 이정은 | Data Analystics, ML  | [https://blog.naver.com/charzim0611](https://blog.naver.com/charzim0611/)  |
+| <a href="https://github.com/dohyeondol1"><img src="https://avatars.githubusercontent.com/u/102894803?v=4" width="100px;" alt=""/> | 도현석 | Data Structure, Algorithm | [https://dohyeondol1.github.io](https://dohyeondol1.github.io/)  |
 | <a href="https://github.com/erase-jeong"><img src="https://avatars.githubusercontent.com/u/98355440?v=4" width="100px;" alt=""/> | 정지우 | Backend, Java, Spring | [https://erase-jeong.tistory.com](https://erase-jeong.tistory.com/)  |
 | <a href="https://github.com/MinseoKim01"><img src="https://avatars.githubusercontent.com/u/202237930?v=4" width="100px;" alt=""/> | 김민서 | AI, Python | [https://velog.io/@minseoo_1](https://velog.io/@minseoo_1/posts/)  |
 
@@ -58,6 +63,10 @@
 | 6주차 (08/17) | 회사 사정으로 불참 | [밑바닥부터 시작하는 딥러닝1 - ch03 신경망 (63-77p) 다시보기](https://velog.io/@minseoo_1/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D1-ch03-%EC%8B%A0%EA%B2%BD%EB%A7%9D-63-77p-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0) | [인공지능부터 머신러닝, 딥러닝까지, 핵심 개념 한 번에 이해하기](https://erase-jeong.notion.site/what-is-ai) |
 | 7주차 (08/24) | 해커톤 일정으로 불참 | [밑바닥부터 시작하는 딥러닝1 - ch03 신경망 (78-90p)](https://velog.io/@minseoo_1/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D1-ch03-%EC%8B%A0%EA%B2%BD%EB%A7%9D-78-90p) | []() |
 
+## 🗓️ 주간 포스팅 기록(09.22~)
+| 주차          | 구교황            | 김민철            | 조강래             | 김균호             | 
+|---------------|------------------|--------------------|--------------------|--------------------|
+| 8주차 (09/22) | []() | []() | []() | []() |
 ---
 
 ## 🔗 참고

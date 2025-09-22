@@ -27,7 +27,7 @@
 | <a href="https://github.com/9kyo-hwang"><img src="https://avatars.githubusercontent.com/u/49135176?v=4" width="100px;" alt=""/> | 구교황 | Game Client/Server, Unreal Engine, Unity, C++ | [https://9ky0.tistory.com](https://9ky0.tistory.com/)  |
 | <a href="https://github.com/miniron-v"><img src="https://avatars.githubusercontent.com/u/61517039?v=4" width="100px;" alt=""/> | 김민철 | Game, Unity, C# | [https://autumncat.tistory.com](https://autumncat.tistory.com/)  |
 | <a href="https://github.com/kangrae-jo"><img src="https://avatars.githubusercontent.com/u/177727543?v=4" width="100px;" alt=""/> | 조강래 | Backend, Java, Spring | [https://kng0501.tistory.com](https://kng0501.tistory.com/)  |
-| <a href="https://github.com/g0rnn"><img src="https://avatars.githubusercontent.com/u/124599614?v=4" width="100px;" alt=""/> | 김균호 | Backend, Java, Spring | [https://g0rnn.tistory.com](https://g0rnn.tistory.com/)  |
+| <a href="https://github.com/g0rnn"><img src="https://avatars.githubusercontent.com/u/124599614?v=4" width="100px;" alt=""/> | 김균호 | Backend, Java, Spring | [https://g0rnn.github.io/](https://g0rnn.github.io/)  |
 
 ## 👥 前 스터디원
 
@@ -65,7 +65,7 @@
 ## 🗓️ 주간 포스팅 기록(09.22~)
 | 주차          | 구교황            | 김민철            | 조강래             | 김균호             | 
 |---------------|------------------|--------------------|--------------------|--------------------|
-| 8주차 (09/22) | []() | []() | []() | []() |
+| 8주차 (09/22) | [Overlapped 모델](https://9ky0.tistory.com/18) | [Unity와 C#의 Garbage Collection은 어떻게 동작하는가](https://autumncat.tistory.com/88) | [캐싱 전략 알아보기](https://kng0501.tistory.com/22) | [HashMap vs TreeMap](https://g0rnn.github.io/2025/09/22/map/) |
 ---
 
 ## 🔗 참고

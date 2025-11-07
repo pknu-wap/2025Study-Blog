@@ -68,6 +68,7 @@
 | 8주차 (09/22) | [Overlapped 모델](https://9ky0.tistory.com/18) | [Unity와 C#의 Garbage Collection은 어떻게 동작하는가](https://autumncat.tistory.com/88) | [캐싱 전략 알아보기](https://kng0501.tistory.com/22) | [HashMap vs TreeMap](https://g0rnn.github.io/2025/09/22/map/) |
 | 9주차 (10/01) | [Stack 메모리 vs Heap 메모리](https://9ky0.tistory.com/20) | [[제노사이드(Zenocide)] 스토리 랜덤 진행 로직을 만들어보자](https://autumncat.tistory.com/90) | [배포가 끝나고...](https://kng0501.tistory.com/23) | [내 프로젝트에 100만명의 사용자가 몰려든다면.!](https://g0rnn.github.io/hello-million-users/) |
 | 10주차 (10/17) | [가상 메모리](https://9ky0.tistory.com/22) | []() | [꼬인 연관관계 풀기](https://kng0501.tistory.com/24) | [Spring Security의 큰 그림](https://g0rnn.github.io/spring-security-architecture) |
+| 11주차 (11/07) | [RTTI와 Reflection](https://9ky0.tistory.com/23) | [개인 사정으로 불참]() | [자바 함수형 인터페이스: Supplier](https://kng0501.tistory.com/30) | [자바의 Lambda와 함수형 인터페이스](https://g0rnn.github.io/java8-functional-interface/) |
 ---
 
 ## 🔗 참고
